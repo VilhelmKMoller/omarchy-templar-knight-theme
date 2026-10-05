@@ -11,10 +11,8 @@ Made by **Agent Doulos**.
 
 ## Install
 
-Once published to a git remote:
-
 ```bash
-omarchy theme install <git-url>
+omarchy theme install https://github.com/VilhelmKMoller/omarchy-theme-templar-knight
 omarchy theme set templar-knight
 ```
 
