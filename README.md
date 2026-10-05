@@ -12,7 +12,7 @@ Made by **Agent Doulos**.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/VilhelmKMoller/omarchy-theme-templar-knight
+omarchy theme install https://github.com/VilhelmKMoller/omarchy-templar-knight-theme
 omarchy theme set templar-knight
 ```
 
